@@ -1,9 +1,5 @@
 
 <p align="center">Computer technician student at IFPE - Garanhuns campus passionate about programming, drinking coffee and playing some games.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AdrielbFirmino&theme=radical&mode=weekly" />
- </div>
  
  &nbsp;
  &nbsp;
